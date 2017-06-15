@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.thoughtworks.xstream\xstream\1.4.7\bce3282142b63068260f021fcbe48b72e8d71a1a\xstream-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bce3282142b63068260f021fcbe48b72e8d71a1a">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\xstream-1.4.7_5a40c6121b67e91dce45c1ad917df7487a13a0ac.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\jackson-core-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05f2bfd0866bcacbcc7c25ce25f80b5aeed0f72f">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.0_63df2b8d53afa52a43bec720c8cd1fca7403a77b.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\cn.qqtheme.framework\FilePicker\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6166e79bcc0c1363cc623c3ac330ff0d6662ddd0">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-FilePicker-1.5.0_fabd1ebf1fc67c074cb91836359da11aa66e63c8.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.github.navasmdc-MaterialDesign-1.5_52f3f1b966ca221409f9d4b4aa363ce4c2990562.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_b16cf50af509855ded3265e9b5a4ad85b4430d31.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\dashubio\PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2bf64a2835fe8c5f26d431121cdb6289725d1354">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\dashubio-PullToRefresh-unspecified_f195c49d0591edbb87fd15460118fedb8d48b127.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\health_sdk_1_3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c022c9f1dc22cc5e07326ed60c387b64d1bff15">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\health_sdk_1_3_729f81c3bf6c87441b1aa95365817e21dcf30a0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.1\cabf146d220dcd70a2972166cd1bfae200b97eff\adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.1_354c7e84fe06da298f398c2d0eed9015e23b6f53.jar" />
+    </item>
+    <item
+        jar="G:\zhangzibin\adt-bundle-windows-x86-20130729\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_99515023e2370b99acb85898de6bfffe7c4c3bdc.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.github.michaelye.easydialog\easydialog\1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1e356c8320c39422774a9259198e82bd8d9abb51">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.github.michaelye.easydialog-easydialog-1.4_7b32ae419113c3e6b21be46c69f07b93deea5e38.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\BC01_SDK v1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4d0f78b4442178679ad3806f7148526b290ad581">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\BC01_SDK v1.3_ce60808141aa93ccf84999225dd05179d13e262a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.VictorAlbertos.Jolyglot\common\0.0.3\25accaf0d3e57c6aec91ecd418c7a5cb2cd60040\common-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25accaf0d3e57c6aec91ecd418c7a5cb2cd60040">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\common-0.0.3_434a7fe2d4291f2e026fb9f24ad5430d29cb1165.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_e9fa97d8f87abedc830e2852265c7e6df8e0abc1.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.zhy\flowlayout-lib\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fdaede6c3d2da36ba042f9db05a60d303e04045f">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.zhy-flowlayout-lib-1.0.3_e8c6e40528fc08a935311e87e2424e19413b55ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.8\f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5\rxjava-1.1.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\rxjava-1.1.8_292ae3995d1eed9d8e95f69ea1728f88ec6efa5c.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_3af3ed6e03c74d3c5d988376ddb58558f22a0ebb.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\cn.qqtheme.framework\ColorPicker\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b119d8a88d535013bd9df135f8aec6f264247f8">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-ColorPicker-1.5.0_8806116a7cb307310783fcb52bf6f40ddcd7acd3.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-1.4.1_a4161382e9e9e4d9a1e22f5dbf5bccf3a66fe5c8.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-21.0.3_80dfe68c50cc20cee2596e31eaaeace4fc6d25c3.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_4715a1a67c7685321f6e50495e700961a848a23d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_69d0b6c8ffa05193b3c0ebfa1d1d218ee290f911.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_604814b41555cfef119cee11f8a1a98e15512aa2.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_3a22adbd92db974bbe9eae4f76beb9b0d01a7991.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_4689b80a02dd6511af25b8bab341da09d95930d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_338198e230e883acd6c9c82ca46ba5fc3096755c.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\cn.qqtheme.framework\WheelPicker\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6bfe8bc10ea87727b477a9a219724b89192164a3">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-WheelPicker-1.5.0_25314a5ccb30dc25274db394491ed3eb7eb498a1.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\dashubio\BluetoothSPPLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129b714637cee06a11b9bf8a7cf578c10d046eb2">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\dashubio-BluetoothSPPLibrary-unspecified_02c4d08e12079e77bce528ff1efbd6952840d5a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\retrofit-2.0.1_c6dfa2feee0f922c3b4b241a295ad3d98c347453.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\me.grantland-autofittextview-0.2.1_16a5f0f16b027e685349126797731289317dfc54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.VictorAlbertos.RxCache\runtime\1.6.2\58c8df0b02527898a321edc4fb5105e3c40fc6c8\runtime-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="58c8df0b02527898a321edc4fb5105e3c40fc6c8">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\runtime-1.6.2_ec32633b7a78fea4ab99e982c600a6b3d4251bf4.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_6e2023931bc232ef794606f40704d1696f974a3d.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\libTGECG.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d9d6217560b9c62bcbfaffb1b53c2874b0c59d1">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\libTGECG_13854f4479f44e4b51223ebae568a9aa221b7743.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\gson-2.6.2_002b7fbf7a0de167c934ae8280ecce1c989b18df.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\dashubio\EmptyLayout\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b4d2b2d3f02d89d2d6fb8220e4b07eeddbc51c">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\dashubio-EmptyLayout-unspecified_74ab7d33ad6bab008414638f1eb983769aa85dc4.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_7b3a6dbd1f0cd83dc81e625b2efd167f09b146aa.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_1cc2058cf62c7a0bac86b241cb4d3c5dea8a02d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.6\a2e0fb833ba928689fb8b8d9cc92a81298da7c37\dagger-2.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a2e0fb833ba928689fb8b8d9cc92a81298da7c37">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\dagger-2.6_3edc85bddc67dd7368ffe6e3fc9d58691eeb0381.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_b7536dadab909d0367ea7187d5ad89d1daf31291.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_a1314bc92635d294a73b4815fa5bc9c9b27e1e39.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\commons-codec-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\commons-codec-1.3_dc3057da1b036be335815949e28de7ee2a14c6f3.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\me.drakeet.materialdialog-library-1.3.1_a6cd884283bb2e8e5145b21d7ec392f51d82b366.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.VictorAlbertos.RxCache\core\1.6.2\219d068108e8de4e561caf4570c1767f756794db\core-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="219d068108e8de4e561caf4570c1767f756794db">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\core-1.6.2_f09542ded643f55132330aa686af77579e87e872.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_7ed28277f6d87070a38e23576b9febb034c7338a.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\cn.qqtheme.framework\Common\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23599b4b11cbbfc0dbccab8877951ed90d5faf69">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-Common-1.5.0_966288153df6c9a4fb995a4ea9af014fd1b1ca02.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.github.Todd-Davies\ProgressWheel\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="835be1a97d1d461060c330223b6b148662513d3f">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.github.Todd-Davies-ProgressWheel-1.2_cde7a5a7ca6e7a263053177f070da80879a9e7fb.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\dashubio\BluetoothLeGatt\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b822e4a2c51d71be530cc841af59b7aef9495fd8">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\dashubio-BluetoothLeGatt-unspecified_c1960d1c9392eea27fe06f48b0ccccb1b0d74c6a.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\commons-logging.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="760c711c71588bc273d3e56d196d720a7678cd93">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\commons-logging_476adcbe26168570fed3235511e586d9086f4061.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.0.1\47fea65b6a606c4421f6710b5d470ab9c2f8f820\converter-scalars-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="47fea65b6a606c4421f6710b5d470ab9c2f8f820">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\converter-scalars-2.0.1_2928fa7d045d08b8ea556986a741bf7a06dbf32b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_6530ed4492c039feb8759382d5b87e8d74717dad.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_1ce531584e38ffef08211a67378fe2e183f5ba11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.VictorAlbertos.Jolyglot\api\0.0.3\6576f5a0b4a58c4e245bea1ac5dec8ecd859aa02\api-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6576f5a0b4a58c4e245bea1ac5dec8ecd859aa02">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\api-0.0.3_e1c4ae14f91e7108a325d8312a3a653b75d3c6c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_cbc7824701ab884415ad7e49e78cf825e4e3f19c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\javax.annotation-10.0-b28_0537ac66f5c16b0c323fe65159e843bc0103a062.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\afreechart-0.0.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a620cc3b8d3e12d9e7b0ce3435254279390fd4ef">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\afreechart-0.0.4_289f32f2e1d3aa2efced1dab0a3dc07a20afdeab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.0.1\1d232df84491c0453e077002509911301109409d\logging-interceptor-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.0.1_3056a4ea3109790e7ebff777d35f5026a1de2767.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho-okhttp3\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ff6b36b86cc5d50475d396ee60671200dbe419c">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-okhttp3-1.4.1_fc01a78c8afdc0ed12d21ec73d6755a0b4a9aa7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.VictorAlbertos.Jolyglot\gson\0.0.3\6d77f513f3c54f41c0fcc95557669e547aee0b43\gson-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6d77f513f3c54f41c0fcc95557669e547aee0b43">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\gson-0.0.3_5822ab7a74bf6d860662132ab2e0e2042d60b945.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\xpp3\xpp3_min\1.1.4c\19d4e90b43059058f6e056f794f0ea4030d60b86\xpp3_min-1.1.4c.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19d4e90b43059058f6e056f794f0ea4030d60b86">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\xpp3_min-1.1.4c_fa2aa5dfe7698a01faee1e87c57550c96494473c.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_5a7ec23728b2e66b65a0fd695e3855720a01babd.jar" />
+    </item>
+    <item
+        jar="E:\zzb\dashubio\app\libs\jackson-databind-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7d3430de9f2b600b074ba3bc007edcfbc4bbf4fb">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\jackson-databind-2.7.0_12725e4fbe2b54f943442e89bed196aef6bbf079.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="E:\zzb\dashubio\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.1_b0c4b929ee3b4c2d4b184b2f94e54e6aa1a7b32b.jar" />
+    </item>
+
+</items>

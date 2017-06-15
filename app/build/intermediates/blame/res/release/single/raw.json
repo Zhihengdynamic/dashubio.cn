@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\raw\\heartbeat.m4a",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\raw\\heartbeat.m4a"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\raw\\ecgdata.txt",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\raw\\ecgdata.txt"
+    }
+]

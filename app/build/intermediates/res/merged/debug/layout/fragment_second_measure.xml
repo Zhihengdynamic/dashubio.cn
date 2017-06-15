@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:zhy="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/sv_measure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/size_10dp"
+            android:paddingBottom="@dimen/size_10dp">
+
+            <TextView
+                android:id="@+id/device_status_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/select_measurement_items"
+                android:textColor="@color/black"
+                android:textSize="@dimen/medium_text" />
+
+            <LinearLayout
+                android:id="@+id/health_instrument_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/device_status_tv"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/btn_color"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/health_instrument"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/link_health_instrument_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:background="@color/btn_color"
+                    android:drawableLeft="@drawable/bluetooth"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/click_to_connect_device"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/measure_health_instrument_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:background="#66669A"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/start_measuring"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+            </LinearLayout>
+
+            <com.zhy.view.flowlayout.TagFlowLayout
+                android:id="@+id/health_detecting_instrument_tagflowlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/health_instrument_title"
+                android:layout_marginBottom="@dimen/size_5dp"
+                zhy:max_select="1" />
+
+            <LinearLayout
+                android:id="@+id/dry_biochemical_analyzer_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/health_detecting_instrument_tagflowlayout"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/btn_color"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/dry_biochemical_analyzer"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/link_dry_biochemical_analyzer_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@+id/textView3"
+                    android:background="@color/btn_color"
+                    android:drawableLeft="@drawable/bluetooth"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/connect_device_get_data"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/measure_dry_biochemical_analyzer_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:background="#66669A"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/start_measuring"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <com.zhy.view.flowlayout.FlowLayout
+                android:id="@+id/dry_biochemical_analyzer_flowlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/dry_biochemical_analyzer_title"
+                android:layout_marginTop="6dp"
+                app:gravity="left">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="血脂四项"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="血糖"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="尿酸"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="谷丙转氨酶"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="血红蛋白"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+            </com.zhy.view.flowlayout.FlowLayout>
+
+            <LinearLayout
+                android:id="@+id/urine_analyzer_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/dry_biochemical_analyzer_flowlayout"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/btn_color"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/urine_analyzer"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/link_urine_analyzer_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:background="@color/btn_color"
+                    android:drawableLeft="@drawable/bluetooth"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/connect_device_get_data"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text" />
+
+                <TextView
+                    android:id="@+id/measure_urine_analyzer_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:background="#66669A"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/size_10dp"
+                    android:paddingLeft="@dimen/size_10dp"
+                    android:paddingRight="@dimen/size_10dp"
+                    android:paddingTop="@dimen/size_10dp"
+                    android:text="@string/start_measuring"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_text"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <com.zhy.view.flowlayout.FlowLayout
+                android:id="@+id/urine_analyzer_flowlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/urine_analyzer_title"
+                android:layout_marginTop="6dp"
+                app:gravity="left">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="尿胆原"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="胆红素"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="酮体"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="蛋白质"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="白细胞"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="尿葡萄糖"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="尿比重"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="PH值"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="尿隐血"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="亚硝酸盐"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/share_target_normal"
+                    android:text="抗坏血酸"
+                    android:textColor="@drawable/share_target_text_color"
+                    android:textSize="@dimen/font_size_15" />
+            </com.zhy.view.flowlayout.FlowLayout>
+
+            <com.todddavies.components.progressbar.ProgressWheel
+                android:id="@+id/pw_spinner"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true"
+                android:visibility="gone"
+                ProgressWheel:pwBarColor="#0097D6"
+                ProgressWheel:pwBarLength="60dp"
+                ProgressWheel:pwBarWidth="5dp"
+                ProgressWheel:pwRimColor="#330097D6"
+                ProgressWheel:pwRimWidth="2dp"
+                ProgressWheel:pwText="Authenticating..."
+                ProgressWheel:pwTextColor="#222"
+                ProgressWheel:pwTextSize="14sp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

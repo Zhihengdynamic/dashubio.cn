@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\heartbeat.m4a",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\raw\\heartbeat.m4a"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ecgdata.txt",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\raw\\ecgdata.txt"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\heartbeat.m4a",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\raw\\heartbeat.m4a"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ecgdata.txt",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\raw\\ecgdata.txt"
+    }
+]

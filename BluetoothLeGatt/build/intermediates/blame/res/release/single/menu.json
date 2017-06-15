@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\BluetoothLeGatt\\build\\intermediates\\res\\merged\\release\\menu\\gatt_services.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\BluetoothLeGatt\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\BluetoothLeGatt\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\BluetoothLeGatt\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\BluetoothLeGatt\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\zzb\\dashubio\\BluetoothLeGatt\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\BluetoothLeGatt\\build\\intermediates\\res\\merged\\release\\menu\\gatt_services.xml",
+        "source": "E:\\zzb\\dashubio\\BluetoothLeGatt\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

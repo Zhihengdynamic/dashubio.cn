@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="FilePicker-1.5.2">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/FilePicker/1.5.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/FilePicker/1.5.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/FilePicker/1.5.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.qqtheme.framework/FilePicker/1.5.2/597830204197bb66f13e3005ad68ab69ccbc8c3c/FilePicker-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

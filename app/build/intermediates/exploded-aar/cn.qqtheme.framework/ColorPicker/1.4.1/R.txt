@@ -1,0 +1,2 @@
+int drawable color_picker_cursor_bottom 0x7f020000
+int drawable color_picker_cursor_top 0x7f020001

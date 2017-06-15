@@ -1,0 +1,377 @@
+package com.dashubio.ui.fragment;
+
+import android.hardware.Camera.Parameters;
+import android.os.Bundle;
+import android.os.Environment;
+import android.os.Handler;
+import android.os.Message;
+import android.support.annotation.Nullable;
+import android.text.TextUtils;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.SurfaceHolder;
+import android.view.SurfaceHolder.Callback;
+import android.view.SurfaceView;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
+import android.widget.ProgressBar;
+import android.widget.Toast;
+
+import com.dashubio.CameraManager;
+import com.dashubio.R;
+import com.dashubio.actions.TodoActions;
+import com.dashubio.actions.UCenterActionsCreator;
+import com.dashubio.app.ErrorCode;
+import com.dashubio.app.event.AutoRegisterMessageEvent;
+import com.dashubio.card.utils.FileUtil;
+import com.dashubio.card.utils.HttpUtil;
+import com.dashubio.card.utils.NetUtil;
+import com.dashubio.dispatcher.Dispatcher;
+import com.dashubio.model.HttpResult;
+import com.dashubio.model.IDCard;
+import com.dashubio.model.IDCardResult;
+import com.dashubio.model.ucenter.User;
+import com.dashubio.stores.UCenterStore;
+import com.dashubio.ui.fragment.base.BaseFragment;
+import com.dashubio.utils.ToastUtils;
+import com.dashubio.utils.log.Logger;
+import com.google.gson.Gson;
+
+import org.greenrobot.eventbus.Subscribe;
+import org.greenrobot.eventbus.ThreadMode;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import okhttp3.RequestBody;
+
+// 首页--用户注册
+public class RegisterFragment extends BaseFragment implements OnClickListener, Callback {
+
+    View mRootView = null;
+
+    @BindView(R.id.id_card_recognition_container)
+    LinearLayout mIdCardRecognitionContainer;//身份证识别区域
+
+    @BindView(R.id.manual_register_btn)
+    Button mManualRegisterBtn;//手动注册按钮
+
+    private CameraManager mCameraManager;
+    private SurfaceView mSurfaceView;
+    private ProgressBar mProgressBar;
+    private ImageButton mShutter;
+    private SurfaceHolder mSurfaceHolder;
+    private String flashModel = Parameters.FLASH_MODE_OFF;
+    private byte[] jpegData = null;
+    public static final String action = "idcard.scan";
+    private final int CAMERA_RESULT = 8888; // 拍照标记
+    private String pathImage; // 选择图片路径
+    private ArrayList<String> pathList = new ArrayList<String>(); // 图片路径列表
+    private File file;
+
+    private Handler mHandler = new Handler() {
+
+        public void handleMessage(Message msg) {
+            Logger.i("------handleMessage()------msg.what = " + msg.what);
+            switch (msg.what) {
+                case 0:
+                    Toast.makeText(getActivity(), "拍照失败", Toast.LENGTH_SHORT).show();
+                    mCameraManager.initPreView();
+                    break;
+
+                case 1:
+                    jpegData = (byte[]) msg.obj;
+                    if (jpegData != null && jpegData.length > 0) {
+                        mProgressBar.setVisibility(View.VISIBLE);
+                        new Thread(new Runnable() {
+                            @Override
+                            public void run() {
+                                if ((jpegData.length > (1000 * 1024 * 5))) {
+                                    mHandler.sendMessage(mHandler.obtainMessage(3, getResources().getString(R.string.photo_too_lage)));
+                                    return;
+                                }
+                                String result = null;
+                                boolean isavilable = NetUtil.isNetworkConnectionActive(getActivity());
+                                if (isavilable) {
+                                    result = Scan(action, jpegData, "jpg");
+                                    Gson gson = new Gson();
+                                    IDCardResult idCardResult = gson.fromJson(result, IDCardResult.class);
+                                    if ("OK".equals(idCardResult.getStatus())) {
+                                        IDCard idCard = idCardResult.getData().getItem();
+                                        IDCardDialogFragment idCardDialogFragment = IDCardDialogFragment.newInstance(idCard);
+                                        idCardDialogFragment.show(getFragmentManager(), "TAG");
+                                    }
+
+                                    if (result.equals("-2")) {
+                                        result = "连接超时！";
+                                        mHandler.sendMessage(mHandler.obtainMessage(3, result));
+                                    } else if (HttpUtil.connFail.equals(result)) {
+                                        mHandler.sendMessage(mHandler.obtainMessage(3, result));
+                                    } else {
+                                        mHandler.sendMessage(mHandler.obtainMessage(4, result));
+                                    }
+                                } else {
+                                    mHandler.sendMessage(mHandler.obtainMessage(3, "无网络，请确定网络是否连接!"));
+                                }
+                            }
+                        }).start();
+                    }
+                    break;
+
+                case 3:
+                    mProgressBar.setVisibility(View.GONE);
+                    String str = msg.obj + "";
+                    Toast.makeText(getActivity(), str, Toast.LENGTH_SHORT).show();
+                    mCameraManager.initPreView();
+                    mShutter.setEnabled(true);
+                    break;
+
+                case 4:
+                    mShutter.setEnabled(true);
+                    mProgressBar.setVisibility(View.GONE);
+                    String result = msg.obj + "";
+                    //Toast.makeText(getActivity(), result, Toast.LENGTH_SHORT).show();
+                    break;
+
+                case 5:
+                    String filePath = msg.obj + "";
+                    byte[] data = FileUtil.getByteFromPath(filePath);
+                    if (data != null && data.length > 0) {
+                        mHandler.sendMessage(mHandler.obtainMessage(1, data));
+                    } else {
+                        mHandler.sendMessage(mHandler.obtainMessage(0));
+                    }
+                    break;
+
+                case 6:
+                    Toast.makeText(getActivity(), "请插入存储卡！", Toast.LENGTH_SHORT).show();
+                    mCameraManager.initPreView();
+                    break;
+            }
+        }
+    };
+
+
+    private Dispatcher mDispatcher;
+    private UCenterActionsCreator mUCenterActionsCreator;
+    private UCenterStore mUCenterStore;
+
+    @Override
+    public void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        initDependencies();
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        mRootView = inflater.inflate(R.layout.fragment_register, container, false);
+        unbinder = ButterKnife.bind(this, mRootView);
+        mCameraManager = new CameraManager(getActivity(), mHandler);
+        initView();
+
+        return mRootView;
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        mDispatcher.unregister(this);
+        mDispatcher.unregister(mUCenterStore);
+    }
+
+    private void initDependencies() {
+        mDispatcher = Dispatcher.getInstance();
+        mUCenterActionsCreator = UCenterActionsCreator.getInstance(UCenterActionsCreator.class);
+        mUCenterStore = UCenterStore.getInstance(UCenterStore.class);
+    }
+
+
+
+
+    private void initView() {
+        if (!Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)) {
+            Toast.makeText(getActivity().getApplicationContext(), "请插入存储卡", Toast.LENGTH_LONG).show();
+        }
+
+        File dir = new File(CameraManager.strDir);
+        if (!dir.exists()) {
+            dir.mkdir();
+        }
+
+        mManualRegisterBtn = (Button) mRootView.findViewById(R.id.manual_register_btn);
+        mManualRegisterBtn.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                IDCardDialogFragment idCardDialogFragment = IDCardDialogFragment.newInstance(null);
+                idCardDialogFragment.show(getFragmentManager(), "TAG");
+            }
+        });
+
+        mProgressBar = (ProgressBar) mRootView.findViewById(R.id.reco_recognize_bar);
+        mSurfaceView = (SurfaceView) mRootView.findViewById(R.id.camera_preview);
+        mShutter = (ImageButton) mRootView.findViewById(R.id.camera_shutter);
+        mSurfaceHolder = mSurfaceView.getHolder();
+        mSurfaceHolder.addCallback(this);
+        mSurfaceHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
+        mShutter.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                mCameraManager.requestFocuse();
+                mShutter.setEnabled(false);
+            }
+        });
+    }
+
+
+    // 刷新图片
+    @Override
+    public void onResume() {
+        super.onResume();
+        mDispatcher.register(this);
+        mDispatcher.register(mUCenterStore);
+    }
+
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+
+            default:
+                break;
+        }
+    }
+
+
+    @Override
+    public void surfaceCreated(SurfaceHolder holder) {
+        try {
+            mCameraManager.openCamera(mSurfaceHolder);
+            if (flashModel == null || !mCameraManager.isSupportFlash(flashModel)) {
+                flashModel = mCameraManager.getDefaultFlashMode();
+            }
+            mCameraManager.setCameraFlashMode(flashModel);
+        } catch (RuntimeException e) {
+            Toast.makeText(getActivity().getApplicationContext(), R.string.camera_open_error, Toast.LENGTH_SHORT).show();
+        } catch (IOException e) {
+            Toast.makeText(getActivity().getApplicationContext(), R.string.camera_open_error, Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    @Override
+    public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
+        if (width > height) {
+            mCameraManager.setPreviewSize(width, height);
+        } else {
+            mCameraManager.setPreviewSize(height, width);
+        }
+        mCameraManager.initPreView();
+    }
+
+    @Override
+    public void surfaceDestroyed(SurfaceHolder holder) {
+        mCameraManager.closeCamera();
+    }
+
+    public static String Scan(String type, byte[] file, String ext) {
+        String xml = HttpUtil.getSendXML(type, ext);
+        return HttpUtil.send(xml, file);
+    }
+
+
+    @Subscribe(threadMode = ThreadMode.MAIN)
+    public void onUCenterStoreChange(UCenterStore.UCenterStoreChangeEvent event) {
+        String currentStatus = event.getCurrentStatus();//获取当前状态
+
+        if (TextUtils.isEmpty(currentStatus)) {
+            return;
+        }
+
+        //开始请求
+        if (TodoActions.UCENTER_LOADING_START.equals(currentStatus)) {
+            showLoadingDialog();
+            return;
+        }
+
+        //下面为接收到服务器返回响应
+
+        //服务器连接异常
+        if (TodoActions.UCENTER_SERVER_CONNECTION_ERROR.equals(currentStatus)) {
+            hideLoadingDialog();
+            HttpResult errorResp = event.getHttpResp();
+//            ToastUtils.show(mBaseActivity, errorResp.getMsg());
+            return;
+        }
+
+        //处理请求完成
+        hideLoadingDialog();
+        HttpResult resp = event.getHttpResp();
+        if (resp == null) {
+            return;
+        }
+        if (ErrorCode.SUCCESS.equals(resp.getStatus())) {
+
+
+
+
+            switch (currentStatus) {
+                case TodoActions.UCENTER_REGISTER_COMPLETE: //用户注册
+                    ToastUtils.show(mBaseActivity, R.string.successful_operation);
+//                    mUserId = resp.getErrorCode();
+//                    register_window.dismiss();
+//                    showInfoWindow();
+                    break;
+            }
+        } else {
+            //ToastUtils.show(this, resp.getMsg());
+            boolean resutlt = mBaseActivity.handleErrorResp(resp);
+        }
+    }
+
+    //自动注册事件
+    @Subscribe(threadMode = ThreadMode.MAIN)
+    public void onMessageEvent(AutoRegisterMessageEvent event) {
+        IDCard idCard = event.mIDCard;
+        Map<String, RequestBody> txtParams = new HashMap<>();
+        txtParams.put("card_id", RequestBody.create(null, idCard.getCardno()));
+        txtParams.put("name", RequestBody.create(null, idCard.getName()));
+        int sex = User.NO_SEX;
+        if (getString(R.string.male).equals(idCard.getSex())) {
+            sex = User.MALE;
+        } else if (getString(R.string.female).equals(idCard.getSex())) {
+            sex = User.FEMALE;
+        }
+        txtParams.put("sex", RequestBody.create(null, String.valueOf(sex)));
+        String birthdayStr = idCard.getBirthday();
+        if (!TextUtils.isEmpty(birthdayStr)) {
+            birthdayStr = birthdayStr.replace("年", "-");
+            birthdayStr = birthdayStr.replace("月", "-");
+            birthdayStr = birthdayStr.replace("日", "");
+        }
+
+
+        txtParams.put("birth", RequestBody.create(null, birthdayStr));
+        txtParams.put("nation", RequestBody.create(null, idCard.getFolk()));
+        txtParams.put("phone", RequestBody.create(null, idCard.getPhone()));
+        txtParams.put("province", RequestBody.create(null, idCard.getProvince()));
+        txtParams.put("city", RequestBody.create(null, idCard.getCity()));
+        txtParams.put("district", RequestBody.create(null, idCard.getDistrict()));
+        txtParams.put("phone_contacts", RequestBody.create(null, idCard.getMphone()));
+        txtParams.put("address", RequestBody.create(null, idCard.getAddress()));
+        txtParams.put("province", RequestBody.create(null, idCard.getProvince()));
+        txtParams.put("city", RequestBody.create(null, idCard.getCity()));
+        txtParams.put("district", RequestBody.create(null, idCard.getDistrict()));
+
+        mUCenterActionsCreator.toUserRegister(mDeviceUserId, mSessionKey, mSessionValue, txtParams, null, "");
+    }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothLeGatt\\unspecified\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\menu\\gatt_services.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothLeGatt\\unspecified\\res\\menu\\gatt_services.xml"
+    }
+]

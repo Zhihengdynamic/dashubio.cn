@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#fff">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+    <TextView android:id="@+id/tv_none"
+        style="@style/tv_familystyle"
+        android:text="无"/>
+
+    <CheckBox android:id="@+id/cb_none"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/tv_pressure"
+            style="@style/tv_familystyle"
+            android:text="高血压"/>
+
+        <CheckBox android:id="@+id/cb_pressure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/tv_diabetes"
+            style="@style/tv_familystyle"
+            android:text="糖尿病"/>
+
+        <CheckBox android:id="@+id/cb_diabetes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/tv_CHD"
+            style="@style/tv_familystyle"
+            android:text="冠心病"/>
+
+        <CheckBox android:id="@+id/cb_CHD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView android:id="@+id/tv_disease"
+                style="@style/tv_familystyle"
+                android:text="慢性阻塞性肺疾病"/>
+
+            <CheckBox android:id="@+id/cb_disease"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_tumor"
+                    style="@style/tv_familystyle"
+                    android:text="恶性肿瘤"/>
+
+                <CheckBox android:id="@+id/cb_tumor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_stroke"
+                    style="@style/tv_familystyle"
+                    android:text="脑卒中"/>
+
+                <CheckBox android:id="@+id/cb_stroke"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_mentalillness"
+                    style="@style/tv_familystyle"
+                    android:text="重型精神疾病"/>
+
+                <CheckBox android:id="@+id/cb_mentalillness"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_Tuberculosis"
+                    style="@style/tv_familystyle"
+                    android:text="结核病"/>
+
+                <CheckBox android:id="@+id/cb_Tuberculosis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_hepatitis"
+                    style="@style/tv_familystyle"
+                    android:text="肝炎"/>
+
+                <CheckBox android:id="@+id/cb_hepatitis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_malformations"
+                    style="@style/tv_familystyle"
+                    android:text="先天畸形"/>
+
+                <CheckBox android:id="@+id/cb_malformations"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView android:id="@+id/tv_other"
+                    style="@style/tv_familystyle"
+                    android:text="其他"/>
+
+                <CheckBox android:id="@+id/cb_other"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

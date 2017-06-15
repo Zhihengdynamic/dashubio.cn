@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothLeGatt\\unspecified\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_chat_come.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_chat_come.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\devicelist.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\devicelist.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_leaving_message.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_leaving_message.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_dry_analyzer_grid_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_dry_analyzer_grid_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_history.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_history.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_name.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_past_history.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_past_history.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\help_fragment2.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\help_fragment2.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_login.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu_fragment.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\menu_fragment.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_report.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_report.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_device_list.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_health.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_health.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_message.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_message.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_dry_analyzer_data.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_dry_analyzer_data.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_measure.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_measure.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_material_dialog.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\layout\\layout_material_dialog.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\health_report_project_tagflowlayout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\health_report_project_tagflowlayout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_input.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\search_input.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_help.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_list.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_register.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_register.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_toolbar.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_urine_analyzer_data.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_urine_analyzer_data.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_health_files.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_health_files.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\progress_dialog.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\progress_spinner.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.Todd-Davies\\ProgressWheel\\1.2\\res\\layout\\progress_spinner.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_message.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_log_reg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_log_reg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\health_report_child_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\health_report_child_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_index.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_index.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\popwindowlayout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\popwindowlayout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandablelistview_group_item_witharrow.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\expandablelistview_group_item_witharrow.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_selected_disease_grid.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_selected_disease_grid.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_login.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\number_indicator_spinner.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_dialog.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_measure.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_measure.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\title.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_urine_analyzer_grid_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_urine_analyzer_grid_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_id_card.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_id_card.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_register_info.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_register_info.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\progressbar_container.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\progressbar_container.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_health.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_health.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_history.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_history.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_manager.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_manager.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_health_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_health_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_help.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_history_data.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_history_data.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\snackbar.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\checkable_relative_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\checkable_relative_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_test.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_help_context.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_help_context.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_loading.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_error.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\common_question_child_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\common_question_child_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\line_gray.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\line_gray.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_health_files.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_health_files.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_health_warning_sp.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_health_warning_sp.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_detect.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_detect.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_urine_analyzer_list_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_urine_analyzer_list_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second_health_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_second_health_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_forget_password.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_forget_password.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\color_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_tip_content_horizontal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\layout_tip_content_horizontal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_early_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_early_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_index.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothLeGatt\\unspecified\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_family.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\dialog_family.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\progressbar_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\progressbar_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_actionsheet.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_health_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_health_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_choose_detection_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_choose_detection_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_manager.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_manager.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_help_child.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_help_child.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_help.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_help.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\progress_wheel_activity.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.Todd-Davies\\ProgressWheel\\1.2\\res\\layout\\progress_wheel_activity.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_index.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_health_warning.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_health_warning.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_manager.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_manager.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_register.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_menu_fragment.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\item_menu_fragment.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_chat_to.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\list_item_chat_to.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\devicedetail.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\devicedetail.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second_main.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\activity_second_main.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_device.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothLeGatt\\unspecified\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandablelistview_childchild_item.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\expandablelistview_childchild_item.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\popitemlayout.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\layout\\popitemlayout.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_empty.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    }
+]

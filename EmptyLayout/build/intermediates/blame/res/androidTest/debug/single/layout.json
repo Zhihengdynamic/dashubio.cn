@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_loading.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_empty.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_empty.xml",
+        "source": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_error.xml",
+        "source": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_loading.xml",
+        "source": "E:\\zzb\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_error.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\EmptyLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_error.xml"
+    }
+]

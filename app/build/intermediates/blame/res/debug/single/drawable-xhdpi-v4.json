@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_error.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_error.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_delete.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\navigation_delete.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\card.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\card.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_contact_nomal.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add_contact_nomal.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_normal.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\check_normal.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bcr_camera_shutter_normal.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bcr_camera_shutter_normal.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empty.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_loading.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bluetooth.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_bg.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\main_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bcr_camera_shutter_pressed.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bcr_camera_shutter_pressed.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_error.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_error.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_left_qp.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_btn_normal.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_btn_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\select.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\select.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_search.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\helath_report.jpg",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\helath_report.jpg"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_bg.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\main_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_btn_pressed.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_touxiang2.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_touxiang2.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_select.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\check_select.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_touxiang.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_touxiang.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_input.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_input.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\float_button_shadow1.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button_shadow1.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\warning.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\warning.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dashubio_logo.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\dashubio_logo.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_normal.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\check_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bcr_camera_shutter_pressed.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bcr_camera_shutter_pressed.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sprite_check.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_btn_normal.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_btn_normal.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_down.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dashubio_logo.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\dashubio_logo.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_reloj_max.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\ic_reloj_max.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_contact_pressed.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add_contact_pressed.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_left_qp.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\float_button1_shadowp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button1_shadowp.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_load.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_load.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_touxiang2.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_touxiang2.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_background.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\dialog_background.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_search.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_delete.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\navigation_delete.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_logo.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\warning.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\warning.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_empty.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_loading.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empty.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\float_button1_shadowp.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button1_shadowp.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bcr_camera_shutter_normal.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bcr_camera_shutter_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hospital.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\hospital.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_background.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\dialog_background.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\searchbarbg.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\searchbarbg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_right_qp.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_select.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\check_select.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_load.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_load.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\select.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\select.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bluetooth.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_contact_pressed.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add_contact_pressed.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_right_qp.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_logo.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\float_button_shadow1.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button_shadow1.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_reloj_max.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\ic_reloj_max.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_touxiang.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\img_touxiang.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sprite_check.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_btn_pressed.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\down_arrow.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\down_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hospital.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\hospital.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_contact_nomal.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\add_contact_nomal.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\searchbarbg.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\searchbarbg.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_input.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\search_input.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_empty.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\drawable-xhdpi-v4\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\down_arrow.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\down_arrow.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.png",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\helath_report.jpg",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable-xhdpi\\helath_report.jpg"
+    }
+]

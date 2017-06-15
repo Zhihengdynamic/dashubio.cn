@@ -1,0 +1,854 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_select.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\list_item_select.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape_select.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcr_camera_shutter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\bcr_camera_shutter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_left.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_left.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcr_camera_shutter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\bcr_camera_shutter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_select.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_select.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\register_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_ok.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\search_ok.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_left.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_left.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_green_passed.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\cb_green_passed.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\blue_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_green_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\dark_green_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_pressed.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\share_target_pressed.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_green_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\dark_green_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_contact_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\add_contact_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_bottom.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_bottom.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape_select.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\gray_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_top.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_normal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\bg_button_normal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_right.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_right.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\text_color.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\share_target_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_pressed.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\bg_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape1.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_dep_cricle.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\blue_dep_cricle.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_select.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_right.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_normal.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_text_color.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\share_target_text_color.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\round_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_normal_background.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\gridview_normal_background.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ucenter_button_cancel.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\ucenter_button_cancel.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape_normal.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape_normal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_ok.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\search_ok.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_black.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\cb_black.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_rect.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\gray_rect.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_container_select.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\right_container_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_container_selecter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\header_container_selecter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\normal_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\blue_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_container_selecter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\header_container_selecter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_select_background.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\gridview_select_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\register_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_normal.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\share_target_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ucenter_button.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\ucenter_button.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_normal_background.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\gridview_normal_background.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\text_color.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_normal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\share_target_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_normal.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\bg_button_normal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_black.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\cb_black.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_select_background.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\gridview_select_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\share_target_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_selecter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\color_selecter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ucenter_button_cancel.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\ucenter_button_cancel.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_contact_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\add_contact_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\quit_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_text_color.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\share_target_text_color.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_rect.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\gray_rect.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_select.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\list_item_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ucenter_button.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\ucenter_button.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_white_gray.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\cb_white_gray.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_normal.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\list_item_normal.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\gray_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_white_gray.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\cb_white_gray.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_mid_normal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\corners_bg_mid_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_target_pressed.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\share_target_pressed.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_dep_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\blue_dep_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_child_question_bottom_selecter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\expandablelistview_child_question_bottom_selecter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_top.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_top.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selecter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\list_item_selecter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_selector.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\green_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_bottom.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\triangle_bottom.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_green.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\cb_green.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_dep_bg.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\blue_dep_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_pressed.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\bg_button_pressed.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\normal_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_circle.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\register_btn_circle.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\green_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_green_passed.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\cb_green_passed.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_circle.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\register_btn_circle.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\quit_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_selecter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\color_selecter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_normal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\list_item_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_color.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_color.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_group_selecter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\expandablelistview_group_selecter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selecter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\list_item_selecter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\shape_border.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_green.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\cb_green.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_bg.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.michaelye.easydialog\\easydialog\\1.4\\res\\drawable\\round_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_group_selecter.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\expandablelistview_group_selecter.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_container_select.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\right_container_select.xml"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border_shape_normal.xml",
+        "source": "E:\\zzb\\dashubio\\app\\src\\main\\res\\drawable\\btn_border_shape_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_dep_cricle.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\blue_dep_cricle.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_child_question_bottom_selecter.xml",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\src\\main\\res\\drawable\\expandablelistview_child_question_bottom_selecter.xml"
+    }
+]

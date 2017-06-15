@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sprite_check.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-ldpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_down.png",
+        "source": "E:\\zzb\\dashubio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_down.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sprite_check.png",
+        "source": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-ldpi-v4\\sprite_check.png"
+    }
+]

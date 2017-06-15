@@ -1,0 +1,167 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/menu_color" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:src="@drawable/dashubio_logo" />
+
+        <com.dashubio.ui.view.RoundImageView
+            android:id="@+id/img_user"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/logo"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/img_load"
+            android:layout_marginTop="15dp" />
+
+        <TextView
+            android:id="@+id/tv_company_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+            android:layout_below="@+id/img_user"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_text"
+            android:layout_marginTop="10dp"
+            android:text="鼓楼医院体检中心" />
+
+        <TextView
+            android:id="@+id/tv_quit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="21dp"
+            android:background="@drawable/quit_bg"
+            android:gravity="center"
+            android:text="退出"
+            android:textColor="@color/white"
+            android:textSize="@dimen/medium_text" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tv_company_name"
+            android:layout_above="@+id/tv_quit"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical"
+            android:weightSum="6"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp" >
+
+            <TextView
+                android:id="@+id/tv_start_measure"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="开始测量" />
+            <TextView
+                android:id="@+id/tv_history_data"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="历史数据" />
+            <TextView
+                android:id="@+id/tv_health_report"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="健康报告" />
+            <TextView
+                android:id="@+id/tv_health_files"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="健康档案" />
+            <TextView
+                android:id="@+id/tv_health_warning"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="健康预警" />
+            <TextView
+                android:id="@+id/tv_msg"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/big_text"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="用户留言" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/relativeLayout1"
+        android:background="@color/menu_color" >
+        <!--  
+        	<com.dashubio.view.AutoScrollTextView
+    			android:id="@+id/tv_scroll"
+    			android:layout_height="40dp"
+    			android:layout_width="fill_parent"
+   	 			android:text="@string/test"
+    			android:textColor="@color/white"
+    			android:inputType="text"
+    			android:textSize="@dimen/medium_text"
+    			android:gravity="center" >
+   			</com.dashubio.view.AutoScrollTextView>
+   			-->
+        	<TextView
+            android:id="@+id/tv_scroll"
+            android:layout_height="40dp"
+    		android:layout_width="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="广告文字"
+    		android:textColor="@color/white"
+    		android:inputType="text"
+    		android:textSize="@dimen/medium_text"
+    		android:gravity="center"
+                />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_toRightOf="@+id/relativeLayout1"
+        android:background="@color/white" />
+
+</RelativeLayout>

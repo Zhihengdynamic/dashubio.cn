@@ -1,0 +1,121 @@
+-injars 'E:\zzb\dashubio\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'E:\zzb\dashubio\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'G:\zhangzibin\adt-bundle-windows-x86-20130729\sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'E:\zzb\dashubio\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.dashubio.app.AppApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.dashubio.ui.activity.LoginAndRegisterActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.TestActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.MainActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.SecondMainActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.DeviceList {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.HomeActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.IndexActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.AllUser.LoginActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.AllUser.RegisterActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.AllUser.ManagerActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.AllUser.WarningActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.AllUser.HelpActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.OneUser.SecondHealthReportActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.OneUser.SecondHealthFilesActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.OneUser.SecondHealthWarningActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.OneUser.SecondHistoryActivity {
+    <init>();
+}
+
+-keep class com.dashubio.ui.activity.OneUser.SecondMeasureActivity {
+    <init>();
+}
+
+-keep class com.linktop.whealthService.OnBLEService {
+    <init>();
+}
+
+-keep class com.dashubio.utils.MyBroadcastReceiver {
+    <init>();
+}
+
+-keep class app.akexorcist.bluetotohspp.library.BluetoothDeviceListActivity {
+    <init>();
+}
+
+-keep class com.example.android.bluetoothlegatt.BluetoothLeService {
+    <init>();
+}
+
+-keep class com.todddavies.components.progressbar.Main {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

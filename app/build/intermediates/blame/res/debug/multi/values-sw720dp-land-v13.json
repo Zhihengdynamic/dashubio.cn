@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 52,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 54,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "F:\\workspace\\android\\dashubioContainer\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 54,
+                        "endOffset": 158
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\zzb\\dashubio\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\EmptyLayout\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 52,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 54,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\zzb\\dashubio\\app\\build\\intermediates\\exploded-aar\\dashubio\\BluetoothSPPLibrary\\unspecified\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 54,
+                        "endOffset": 158
+                    }
+                }
+            }
+        ]
+    }
+]
